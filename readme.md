@@ -3,7 +3,7 @@
 - I'm a  Web Developer.
 - I live in Taboão da Serra-SP
 
-I'm currently open for new projects so you can reach me trough [WhatsApp](https://wa.me/5511985969633) or [Email](mailto:portogdouglas@gmail.com) 
+I'm currently open for new projects so you can reach me trough - [Email](mailto:portogdouglas@gmail.com) 
 
 
 
