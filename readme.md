@@ -3,8 +3,7 @@
 - I'm a  Web Developer.
 - I live in Taboão da Serra-SP
 
-I'm currently open for new projects so you can reach me trough 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:portogdouglas@gmail.com)
+I'm currently open for new projects so you can reach me trough [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:portogdouglas@gmail.com)
 
 
 
