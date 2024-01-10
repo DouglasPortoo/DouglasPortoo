@@ -1,13 +1,13 @@
 ## Hello ✌, Welcome to my profile!
 
 - Sou um desenvolvedor web.
-- Sou de Taboão da Serra - São Paulo
-- Estou cursando Análise e Desenvolvimento de Sistemas
+- Sou de Taboão da Serra - São Paulo.
+- Estou cursando Análise e Desenvolvimento de Sistemas.
 
-### Aqui estão algumas tecnoligias que gosto de usar
+### Aqui estão algumas tecnoligias que gosto de usar :
 
 
-Front-end
+Front-end:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
@@ -23,12 +23,12 @@ Back-end:
 ![SpringBoot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&labelColor=6DB33F&logo=spring&logoColor=white)
 
 
-database:
+Database:
 
 [![SQLite](https://img.shields.io/badge/-SQLite-232323?style=flat&labelColor=003B57&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=336791&logo=postgresql&logoColor=white)
 
-infraestrutura ou gerenciamento de ambientes:
+Gerenciamento de ambientes:
 
 [![Docker](https://img.shields.io/badge/-Docker-232323?style=flat&labelColor=2496ED&logo=docker&logoColor=white)](https://www.docker.com/)
 
