@@ -20,7 +20,7 @@ Back-end:
 
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&labelColor=007396&logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&labelColor=6DB33F&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/-Spring_Boot-232323?style=flat&labelColor=6DB33F&logo=spring&logoColor=white)
 
 
 Database:
