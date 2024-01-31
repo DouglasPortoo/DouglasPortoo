@@ -38,7 +38,7 @@ Gerenciamento de ambientes:
 <hr/>
 <div align="left"> 
   <a href="https://www.linkedin.com/in/douglas-porto-92b631262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.notion.so/Curr-culo-One-collum-0706e3ef68d74c8f8af52e6ebeb644d7?pvs=4" target="_blank"><img src="https://img.shields.io/badge/-Currículo-%230077B5?style=for-the-badge&logo=curriculum&logoColor=red" target="_blank"></a> 
+  <a href="https://docs.google.com/document/d/1yHH7UB9AdJgZWMKOQnU1WdgKaKIjZhCnSa3FfdGq1kA/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Currículo-%230077B5?style=for-the-badge&logo=curriculum&logoColor=red" target="_blank"></a> 
 </div>
 
 <div align="left"> 
