@@ -1,6 +1,6 @@
 ## Hello ✌, Welcome to my profile!
 
-- Sou um desenvolvedor web.
+- Sou um desenvolvedor/programador.
 - Sou de Taboão da Serra - São Paulo.
 - Estou cursando Análise e Desenvolvimento de Sistemas.
 
