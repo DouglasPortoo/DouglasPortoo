@@ -4,7 +4,7 @@
 - São Paulo-SP.
 - Análise e Desenvolvimento de Sistemas.
 
-### Aqui estão algumas tecnoligias que gosto de usar :
+### Aqui estão algumas tecnologias que gosto de usar :
 
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6) ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
 
