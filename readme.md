@@ -1,4 +1,4 @@
-## 😎✌
+## Olá!
 
 - Desenvolvedor | Java & Spring Boot | Microsserviços & API RESTful | AWS.
 - São Paulo-SP.
@@ -10,7 +10,7 @@
 
 - ![Node.js](https://img.shields.io/badge/-Node.js-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933) ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
 
-- ![Docker](https://img.shields.io/badge/-Docker-232323?style=flat&labelColor=2496ED&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=336791&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232323?style=flat&labelColor=232F3E&logo=amazonaws&logoColor=white) 
+- ![Docker](https://img.shields.io/badge/-Docker-232323?style=flat&labelColor=2496ED&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232323?style=flat&labelColor=232F3E&logo=amazonaws&logoColor=white) 
 
 <hr/>
 
