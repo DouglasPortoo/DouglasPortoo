@@ -1,6 +1,6 @@
 ## 😎✌
 
-- Desenvolvedor/Programador.
+- Desenvolvedor | Java & Spring Boot | Microsserviços & API RESTful | AWS.
 - São Paulo-SP.
 - Análise e Desenvolvimento de Sistemas.
 
